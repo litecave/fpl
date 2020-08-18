@@ -1,2 +1,3 @@
-# fpl
-Fox Public License 1,0
+# fpl (Fox Public Licenses)
+# Fox Public Licenses
+Просто лицензии (Just a licenses)
