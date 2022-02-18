@@ -1,0 +1,14 @@
+CaveLicense (prev. Fox Public License/FPL) v1.0
+TERMS AND CONDITIONS
+1. Definitions.
+"Code" means source code of the program, decompiled bytes, etc.
+"Fork" means copy of Code with changes by Client.
+"Software" means binary file that contains program.
+"Author" is programer that wrote Code.
+"Client" is programer or team/company that wants use Author's Code in his/their developments.
+"User" is end user of Software, Code of which was written by Client which uses Code which was written by Author.
+2. Source Code
+Client CAN close Code of the Software if it contains <30% of Code by Author without attribution.
+Client CAN close Code of the Software if it contains >30%, but <50% of Code by Author, BUT WITH ATTRIBUTION.
+Client REQUIRED to KEEP OPEN Code of the Software if it contains >50% of Code by Author OR if it's fork + ATTRIBUTION.
+Also, if Client's Software contains >50% it shall be shared-alike.
